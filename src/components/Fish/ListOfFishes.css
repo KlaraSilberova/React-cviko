@@ -1,0 +1,18 @@
+.list {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  margin: 5px 0;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  background-color: rgb(206, 220, 220);
+}
+
+.btn-delete {
+  border: none;
+  border-radius: 11px;
+  margin: 10px;
+  background-color: rgb(143, 166, 166);
+  font-size: large;
+}

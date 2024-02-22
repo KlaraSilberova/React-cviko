@@ -1,0 +1,24 @@
+{
+  "ryba": [
+    {
+      "id": 1,
+      "name": "Filoména",
+      "size": "velka"
+    },
+    {
+      "id": 2,
+      "name": "Lola",
+      "size": "mala"
+    },
+    {
+      "id": 3,
+      "name": "Nemo",
+      "size": "velka"
+    },
+    {
+      "id": 4,
+      "name": "Babus",
+      "size": "mala"
+    }
+  ]
+}
